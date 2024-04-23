@@ -46,7 +46,6 @@ models:
     analytics_obt:
       +enabled: true
       +materialized: table
-      +schema: obt_northwind
-      
+      +schema: obt_northwind      
 
 
